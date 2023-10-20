@@ -5,11 +5,6 @@ VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{AB7D758C-AA47-4AB6-B0A0-AF9C67D6D416}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{079B9ADB-3840-4C75-9E69-E1856C2565B9}"
-	ProjectSection(SolutionItems) = preProject
-		..\tyuiu.cources.programming.interfaces.dll = ..\tyuiu.cources.programming.interfaces.dll
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TolmachevVV.Sprint2.Task0.V16", "Tyuiu.TolmachevVV.Sprint2.Task0.V16\Tyuiu.TolmachevVV.Sprint2.Task0.V16.csproj", "{2E68FA85-1184-420A-B295-C5E7CF9986CD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TolmachevVV.Sprint2.Task0.V16.Lib", "Tyuiu.TolmachevVV.Sprint2.Task0.V16.Lib\Tyuiu.TolmachevVV.Sprint2.Task0.V16.Lib.csproj", "{21D9EC42-58B3-4273-90EC-E3830A0ED4ED}"
